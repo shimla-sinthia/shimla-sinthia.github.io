@@ -1,1 +1,0 @@
-# shimla-sinthia.github.io
