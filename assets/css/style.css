@@ -580,12 +580,14 @@ p {
   font-family: "Playfair Display", serif;
   font-size: 28px;
   text-align: left;
+  color: #585656;
 }
 
 #about .about-descr .separator {
   max-width: 80%;
   margin-bottom: 0;
   text-align: left;
+  color: #646361;
 }
 
 /*--------------------------------------------------------------
@@ -612,6 +614,7 @@ p {
   margin: 0;
   font-size: 13px;
   line-height: 22px;
+  color: #646361;
 }
 
 .services-block i {
